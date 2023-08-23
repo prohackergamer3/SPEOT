@@ -1,0 +1,2 @@
+# SPEOT
+Copyright© UCEN SERVİCES
