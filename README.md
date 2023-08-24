@@ -1,5 +1,5 @@
 # SPEOT
-Termux:
+Termux kurulumu:
 ```sh
 pkg install python
 
