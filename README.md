@@ -1,2 +1,6 @@
 # SPEOT
-Copyright© UCEN SERVİCES
+Termux:
+``sh
+pkg install python
+
+``
