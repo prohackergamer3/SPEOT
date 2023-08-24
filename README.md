@@ -4,3 +4,6 @@ Termux:
 pkg install python
 
 ```
+```sh
+pip install gTTS
+```
