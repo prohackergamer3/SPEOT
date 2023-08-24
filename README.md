@@ -1,6 +1,6 @@
 # SPEOT
 Termux:
-``sh
+```sh
 pkg install python
 
-``
+```
