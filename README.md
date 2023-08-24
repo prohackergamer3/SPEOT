@@ -21,5 +21,5 @@ cd SPEOT
 
 ```
 ```sh
-clear && python3 SPEOT.py
+clear && python3 speot.py
 ```
